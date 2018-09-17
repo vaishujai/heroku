@@ -5,13 +5,13 @@
 }
 .jumbotron .btn-primary {
   background: floralwhite;
-  border-color: black;
+  border-color: red;
 }
 .jumbotron .btn-primary:hover {
   background: #7646c1;
 }
 .jumbotron p {
-  color: #d9ccee;
+  color: maroon;
   max-width: 75%;
   margin: 1em auto 2em;
 }
@@ -35,4 +35,9 @@
 }
 .jumbotron .lang-logo img {
   max-width: 100%;
+}
+.table-dark {
+  border: 5px solid black;
+  padding: 5px;
+  margin: 5px;
 }
