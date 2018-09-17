@@ -8,7 +8,7 @@
   border-color: red;
 }
 .jumbotron .btn-primary:hover {
-  background: #7646c1;
+  background: red;
 }
 .jumbotron p {
   color: maroon;
