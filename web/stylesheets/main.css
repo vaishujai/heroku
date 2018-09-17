@@ -36,7 +36,7 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
-.table-dark {
+.table-bordered {
   border: 5px solid black;
   padding: 5px;
   margin: 5px;
