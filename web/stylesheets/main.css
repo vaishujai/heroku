@@ -1,11 +1,11 @@
 .jumbotron {
-  background: #532F8C;
-  color: white;
+  background: antiquewhite;
+  color: black;
   padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
-  background: #845ac7;
-  border-color: #845ac7;
+  background: floralwhite;
+  border-color: black;
 }
 .jumbotron .btn-primary:hover {
   background: #7646c1;
@@ -17,6 +17,8 @@
 }
 .jumbotron h1 {
   font-size: 40px;
+  color: maroon;
+  text-align: center;
 }
 .navbar + .jumbotron {
   margin-top: -20px;
